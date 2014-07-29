@@ -1,0 +1,15 @@
+{
+	"category" : "Tutorial-QCMagritte",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"todoItems",
+		"projects" ],
+	"name" : "TodoListModel",
+	"pools" : [
+		 ],
+	"super" : "QCBootstrapApplicationModel",
+	"type" : "normal" }

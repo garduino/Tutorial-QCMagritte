@@ -1,0 +1,17 @@
+{
+	"category" : "Tutorial-QCMagritte",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title",
+		"description",
+		"completed",
+		"project" ],
+	"name" : "TodoItem",
+	"pools" : [
+		 ],
+	"super" : "QCParentObject",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Tutorial-QCMagritte",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TodoApplication",
+	"pools" : [
+		 ],
+	"super" : "QCBootstrapApplication",
+	"type" : "normal" }

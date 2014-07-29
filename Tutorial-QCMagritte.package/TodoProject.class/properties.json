@@ -1,0 +1,14 @@
+{
+	"category" : "Tutorial-QCMagritte",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title" ],
+	"name" : "TodoProject",
+	"pools" : [
+		 ],
+	"super" : "QCParentObject",
+	"type" : "normal" }
