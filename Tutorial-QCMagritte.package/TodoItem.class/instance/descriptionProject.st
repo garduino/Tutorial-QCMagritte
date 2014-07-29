@@ -4,7 +4,7 @@ descriptionProject
 	^ QCToOneOptionRelationDescription new
 		label: 'Project';
 		accessor: #project;
-		priority: 250;
+		priority: 50;
 		options: self allProjects;
 		classes: {TodoProject};
 		yourself
