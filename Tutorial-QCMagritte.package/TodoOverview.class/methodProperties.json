@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"children" : "GermanArduino 7/30/2014 14:40",
+		"createPageFor:" : "GermanArduino 7/30/2014 14:45",
+		"currentPage" : "GermanArduino 7/30/2014 14:51",
+		"detailsPage" : "GermanArduino 7/30/2014 14:39",
+		"detailsPage:" : "GermanArduino 7/30/2014 14:40",
+		"initialize" : "GermanArduino 7/30/2014 14:45",
+		"isShown:" : "GermanArduino 7/30/2014 15:01",
+		"renderContentOn:" : "GermanArduino 7/30/2014 14:43",
+		"renderDetailPageOn:" : "GermanArduino 7/30/2014 14:39",
+		"showDetails:" : "GermanArduino 7/30/2014 15:06" } }

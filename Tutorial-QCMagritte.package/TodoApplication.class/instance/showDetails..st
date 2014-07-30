@@ -1,3 +1,5 @@
 as yet unclassified
-showDetails: anAnnouncement 
-	detailsPage := self createPageFor: anAnnouncement target
+showDetails: anAnnouncement
+(self currentPage showsObject: anAnnouncement target)
+ifFalse: [
+super showDetails: anAnnouncement ]
