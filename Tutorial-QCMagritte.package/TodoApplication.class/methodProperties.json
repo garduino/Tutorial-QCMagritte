@@ -2,6 +2,12 @@
 	"class" : {
 		"applicationName" : "GermanArduino 7/29/2014 10:38" },
 	"instance" : {
+		"children" : "GermanArduino 7/29/2014 23:05",
+		"detailsPage" : "GermanArduino 7/29/2014 23:06",
+		"detailsPage:" : "GermanArduino 7/29/2014 23:06",
 		"model" : "GermanArduino 7/29/2014 10:39",
+		"renderCurrentPageOn:" : "GermanArduino 7/29/2014 23:02",
+		"renderDetailPageOn:" : "GermanArduino 7/29/2014 23:18",
 		"renderErrorOn:" : "GermanArduino 7/29/2014 10:39",
+		"showDetails:" : "GermanArduino 7/29/2014 23:06",
 		"title" : "GermanArduino 7/29/2014 10:40" } }
